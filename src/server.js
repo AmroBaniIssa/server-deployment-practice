@@ -7,7 +7,7 @@ const errorHandler=require('./handlers/500');
 
 
 app.get('/',(req,res)=>{
- res.send("he llo worlled");
+ res.send("hello worlled");
 
 })
 
